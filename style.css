@@ -100,3 +100,19 @@ p {
   background-color: #333;
   color: #fff;
 }
+
+.toggleBtn {
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  position: fixed;
+  top: 150px;
+  left: 30px;
+}
+
+.toggleBtn:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
